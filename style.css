@@ -4,6 +4,10 @@
     font-family:'Montserrat'; 
 }
 
+.profile-img img{border-radius: 40%; box-shadow: 2px 2px #dad8d8;}
+
+section h2{text-shadow: 2px 2px #dad8d8; font-weight:400;}
+
 h1, h2, body{
     margin:0px;
     padding:0px;
@@ -35,9 +39,11 @@ footer{
 }
 
 h1{
-    font-weight: bold;
+    font-weight: 500;
     font-size: 36px;
     font-style:italic;
+    text-shadow: 2px 2px #dad8d8;
+    color:#272626;
 }
 
 h2{
